@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Modica is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://modicagroup.com/
+Modica Group provides a comprehensive Communications Platform as a Service (CPaaS) for enterprises, offering a wide range of messaging channels including SMS, MMS, Email, WhatsApp Business, and voice, video, and chat capabilities. Their platform supports payments, IoT, push notifications, and two‑factor authentication, alongside robust reporting, billing, and security features. Targeted industries span logistics, retail, insurance, public sector, education, healthcare, and utilities, with solutions for alerts, customer service, marketing, and business continuity. Modica enables white‑labelled platforms for mobile network operators and delivers enterprise‑grade reliability and compliance.
+
+**Areas:** CPaaS · Communications · Enterprise · Messaging · Platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://modicagroup.com/)
+- [Support](https://www.modicagroup.com/platform/support)
+- [Blog](https://www.modicagroup.com/blog)
+- [Security](https://www.modicagroup.com/company/reporting-a-vulnerability)
+- [Privacy policy](https://www.modicagroup.com/privacy-policy)
+- [Status](https://status.modicagroup.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/modica/](https://apis.io/providers/modica/).
